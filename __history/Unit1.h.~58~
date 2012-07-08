@@ -1,0 +1,74 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <IdAntiFreezeBase.hpp>
+#include <IdBaseComponent.hpp>
+#include <IdCmdTCPClient.hpp>
+#include <IdComponent.hpp>
+#include <IdContext.hpp>
+#include <IdTCPClient.hpp>
+#include <IdTCPConnection.hpp>
+#include <Vcl.IdAntiFreeze.hpp>
+#include <Vcl.ExtCtrls.hpp>
+#include <Vcl.ComCtrls.hpp>
+#include <IdIntercept.hpp>
+#include <IdLogBase.hpp>
+#include <IdLogFile.hpp>
+#include <Data.Bind.Components.hpp>
+#include <Data.Bind.EngExt.hpp>
+#include <Vcl.Bind.DBEngExt.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TIdCmdTCPClient *IdCmdTCPClient1;
+	TButton *Button1;
+	TButton *Button2;
+	TStatusBar *StatusBar1;
+	TButton *Button3;
+	TDateTimePicker *DateTimePicker1;
+	TButton *Button4;
+	TPanel *Headers;
+	TLabel *Header_Get;
+	TLabel *Header_Set;
+	TLabel *Header_Del;
+	TLabel *Headers_Status;
+	TIdLogFile *IdLogFile1;
+	TCheckBox *Header_IP_ADDRESS;
+	TMemo *Memo1;
+	TTimer *Timer1;
+	TTimer *Timer2;
+	TTimer *Timer3;
+	TTimer *Timer4;
+	TProgressBar *ProgressBar1;
+	TTimer *Timer5;
+	TBindingsList *BindingsList1;
+	TTimer *Timer7;
+	TTimer *Timer8;
+	void __fastcall Button1Click(TObject *Sender);
+	void __fastcall Button2Click(TObject *Sender);
+	void __fastcall FormCreate(TObject *Sender);
+	void __fastcall Button3Click(TObject *Sender);
+	void __fastcall Button4Click(TObject *Sender);
+	void __fastcall Header_IP_ADDRESSClick(TObject *Sender);
+	void __fastcall Timer1Timer(TObject *Sender);
+	void __fastcall Timer2Timer(TObject *Sender);
+	void __fastcall Timer3Timer(TObject *Sender);
+	void __fastcall Timer4Timer(TObject *Sender);
+	void __fastcall Timer5Timer(TObject *Sender);
+	void __fastcall Timer7Timer(TObject *Sender);
+	void __fastcall Timer8Timer(TObject *Sender);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif

@@ -1,0 +1,9 @@
+Stat Connected.
+Recv 02.06.2012 21:53:25: 200 Ok<EOL>
+Sent 02.06.2012 21:53:25: get_defect_count_ratio 1<EOL>
+Recv 02.06.2012 21:53:25: 202 3<EOL>
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.

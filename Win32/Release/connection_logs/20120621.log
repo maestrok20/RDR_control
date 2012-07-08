@@ -1,0 +1,32 @@
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Connected.
+Recv 21.06.2012 22:32:00: 200 Ok<EOL>
+Sent 21.06.2012 22:32:02: get_defect_count_ratio 1<EOL>
+Recv 21.06.2012 22:32:02: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 21.06.2012 22:32:04: 200 Ok<EOL>
+Sent 21.06.2012 22:32:06: get_defect_count_ratio 1<EOL>
+Recv 21.06.2012 22:32:06: 202 3<EOL>
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Connected.
+Recv 21.06.2012 22:33:06: 200 Ok<EOL>
+Sent 21.06.2012 22:33:08: set_defect_count_ratio 3<EOL>
+Recv 21.06.2012 22:33:08: 203 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 21.06.2012 22:33:12: 200 Ok<EOL>
+Sent 21.06.2012 22:33:14: set_defect_count_ratio 4<EOL>
+Recv 21.06.2012 22:33:14: 203 4<EOL>
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.
+Stat Disconnected.

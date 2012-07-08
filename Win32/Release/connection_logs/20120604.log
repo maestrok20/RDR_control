@@ -1,0 +1,196 @@
+Stat Connected.
+Recv 04.06.2012 22:23:15: 200 Ok<EOL>
+Sent 04.06.2012 22:23:15: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:23:15: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:23:15: 200 Ok<EOL>
+Sent 04.06.2012 22:23:15: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:23:15: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:23:19: 200 Ok<EOL>
+Sent 04.06.2012 22:23:19: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:23:19: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:23:19: 200 Ok<EOL>
+Sent 04.06.2012 22:23:19: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:23:19: 202 3<EOL>
+Stat Connected.
+Recv 04.06.2012 22:24:01: 200 Ok<EOL>
+Sent 04.06.2012 22:24:01: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:24:01: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:24:02: 200 Ok<EOL>
+Sent 04.06.2012 22:24:02: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:24:02: 202 3<EOL>
+Stat Connected.
+Recv 04.06.2012 22:25:27: 200 Ok<EOL>
+Sent 04.06.2012 22:25:27: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:25:27: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:25:27: 200 Ok<EOL>
+Sent 04.06.2012 22:25:27: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:25:27: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:25:29: 200 Ok<EOL>
+Sent 04.06.2012 22:25:29: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:25:29: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:25:29: 200 Ok<EOL>
+Sent 04.06.2012 22:25:29: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:25:29: 202 3<EOL>
+Stat Connected.
+Recv 04.06.2012 22:28:27: 200 Ok<EOL>
+Sent 04.06.2012 22:28:27: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:28:27: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:28:28: 200 Ok<EOL>
+Sent 04.06.2012 22:28:28: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:28:28: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:28:34: 200 Ok<EOL>
+Sent 04.06.2012 22:28:34: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:28:34: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:28:36: 200 Ok<EOL>
+Sent 04.06.2012 22:28:36: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:28:36: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:28:38: 200 Ok<EOL>
+Stat Connected.
+Recv 04.06.2012 22:29:21: 200 Ok<EOL>
+Sent 04.06.2012 22:29:21: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:21: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:23: 200 Ok<EOL>
+Sent 04.06.2012 22:29:23: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:23: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:26: 200 Ok<EOL>
+Sent 04.06.2012 22:29:26: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:26: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:27: 200 Ok<EOL>
+Sent 04.06.2012 22:29:27: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:27: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:30: 200 Ok<EOL>
+Sent 04.06.2012 22:29:30: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:30: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:31: 200 Ok<EOL>
+Sent 04.06.2012 22:29:31: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:31: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:33: 200 Ok<EOL>
+Sent 04.06.2012 22:29:33: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:33: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:34: 200 Ok<EOL>
+Sent 04.06.2012 22:29:34: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:34: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:37: 200 Ok<EOL>
+Sent 04.06.2012 22:29:37: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:37: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:38: 200 Ok<EOL>
+Sent 04.06.2012 22:29:38: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:38: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:40: 200 Ok<EOL>
+Sent 04.06.2012 22:29:40: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:40: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:41: 200 Ok<EOL>
+Sent 04.06.2012 22:29:41: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:41: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:44: 200 Ok<EOL>
+Sent 04.06.2012 22:29:44: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:49: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:49: 200 Ok<EOL>
+Sent 04.06.2012 22:29:49: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:49: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:51: 200 Ok<EOL>
+Sent 04.06.2012 22:29:51: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:51: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:53: 200 Ok<EOL>
+Sent 04.06.2012 22:29:53: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:53: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:57: 200 Ok<EOL>
+Sent 04.06.2012 22:29:57: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:57: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:29:58: 200 Ok<EOL>
+Sent 04.06.2012 22:29:58: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:29:58: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:30:00: 200 Ok<EOL>
+Sent 04.06.2012 22:30:00: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:30:00: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:30:01: 200 Ok<EOL>
+Sent 04.06.2012 22:30:01: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:30:01: 202 3<EOL>
+Stat Connected.
+Recv 04.06.2012 22:33:32: 200 Ok<EOL>
+Sent 04.06.2012 22:33:32: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:33:32: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:33:32: 200 Ok<EOL>
+Sent 04.06.2012 22:33:32: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:33:32: 202 3<EOL>
+Stat Connected.
+Recv 04.06.2012 22:34:15: 200 Ok<EOL>
+Sent 04.06.2012 22:34:15: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:34:15: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:34:15: 200 Ok<EOL>
+Sent 04.06.2012 22:34:15: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:34:15: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:34:19: 200 Ok<EOL>
+Sent 04.06.2012 22:34:19: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:34:19: 202 3<EOL>
+Stat Disconnected.
+Stat Connected.
+Recv 04.06.2012 22:34:19: 200 Ok<EOL>
+Sent 04.06.2012 22:34:19: get_defect_count_ratio 1<EOL>
+Recv 04.06.2012 22:34:19: 202 3<EOL>
